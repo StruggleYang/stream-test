@@ -1,4 +1,4 @@
-package cn.kemai.efficiency_platform.exception;
+package org.struy;
 
 
 import java.util.ArrayList;
